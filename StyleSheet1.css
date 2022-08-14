@@ -1,6 +1,6 @@
 ﻿.Dft_block
 {
-  background-color : rgba(255,255,249,0.7);/*背景色*/
+  background-color : rgba(255,255,249,1);/*背景色*/
   border : 3px solid red;/*边框：3像素 实线 红色*/
   border-radius : 4px;/*圆角：4像素*/
   margin : 15px 30px 15px 30px;/*边外距*/

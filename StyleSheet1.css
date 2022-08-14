@@ -9,3 +9,7 @@ text-indent : 2em;/*首行缩进*/
 line-height : 1.15;/*行高*/
 font-family : "Times New Roman","宋体",serif;/*字体族*/
 }
+body
+{
+  background-image : url(ogas.png);
+  background-attachment: fixed;

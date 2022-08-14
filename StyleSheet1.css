@@ -12,6 +12,5 @@ font-family : "Times New Roman","宋体",serif;/*字体族*/
 body
 {
   background-image : url("ogas.png");
-  background-attachment: fixed;
   background-size: 100%;
   }

@@ -1,9 +1,9 @@
-.Dft_block
+﻿.Dft_block
 {
-background-color : rgba(255,255,249,0.9);/*背景色*/
+background-color : rgba(255,255,249,0.7);/*背景色*/
 border : 3px solid red;/*边框：3像素 实线 红色*/
 border-radius : 4px;/*圆角：4像素*/
-margin : 25px 30px 25px 30px;/*边外距：上下各25像素 左右各30像素*/
+margin : 15px 30px 15px 30px;/*边外距*/
 padding : 25px 10px 25px 10px;/*边内距*/
 text-indent : 2em;/*首行缩进*/
 line-height : 1.15;/*行高*/
@@ -13,3 +13,4 @@ body
 {
   background-image : url(ogas.png);
   background-attachment: fixed;
+  }

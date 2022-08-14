@@ -1,0 +1,11 @@
+﻿#Dft_Block
+{
+background-color : snow;/*背景色：雪（意味深）*/
+border : 3px solid red;/*边框：3像素 实线 红色*/
+border-radius : 4px;/*圆角：4像素*/
+margin : 25px 30px 25px 30px;/*边外距：上下各25像素 左右各30像素*/
+padding : 25px 10px 25px 10px;/*边内距*/
+text-indent : 2em;/*首行缩进*/
+line-height : 1.15;/*行高*/
+font-family : "Times New Roman","宋体",serif;/*字体族*/
+}
